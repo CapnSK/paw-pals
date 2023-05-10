@@ -1,4 +1,4 @@
-Too Long; Dont want to Read?: Skip to Screenshots first to get a look and feel of the website and then jump to usage scenario to understand the application. YOu can clone the repository in your local and follow the build instructions.
+Too Long; Dont want to Read?: Skip to Screenshots first to get a look and feel of the website and then jump to usage scenario to understand the application. You can clone the repository in your local and follow the build instructions.
 
 1. [**Documentation**](#documentation)
 
